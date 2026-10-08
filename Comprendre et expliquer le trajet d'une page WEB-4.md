@@ -196,4 +196,4 @@ Si besoin de plus d’explications, n'hésitez pas à me demander.
 Cordialement
 
 Christophe Leroy  
-Votre Développeur 
+Votre Développeur test
