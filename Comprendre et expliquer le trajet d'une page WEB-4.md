@@ -197,3 +197,5 @@ Cordialement
 
 Christophe Leroy  
 Votre Développeur test
+
+En vous remerciant pour notre relationnel
