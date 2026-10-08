@@ -1,0 +1,6 @@
+# Configuration de l'IDE, propre à chaque poste
+.idea/
+
+# Fichiers créés par le système
+.DS_Store
+Thumbs.db
